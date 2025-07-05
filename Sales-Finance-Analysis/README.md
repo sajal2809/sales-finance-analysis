@@ -1,6 +1,6 @@
-# Sales‑Finance Analysis — Python‑Only Portfolio Project
+# Sales‑Finance Analysis 
 
-A concise, production‑friendly data‑analysis project built in **VS Code** using  
+A data‑analysis project built in **VS Code** using  
 `pandas · numpy · matplotlib · seaborn`.
 
 | ✔ What it shows recruiters | 📂 Key folders  |
