@@ -1,10 +1,1 @@
-# Python
-.venv/
-__pycache__/
-*.pyc
 
-# Jupyter (if someone later adds notebooks)
-.ipynb_checkpoints/
-
-# Data & outputs
-plots/
