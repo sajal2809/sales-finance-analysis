@@ -54,7 +54,9 @@ Sales-Finance-Analysis/
    python analysis.py
    
 This will:
+
 Print key business insights in the terminal
+
 Generate PNG plots inside the plots/ directory
 
 📈 Features & Visualizations
