@@ -5,25 +5,41 @@ A lightweight Python project that performs insightful analysis and visualization
 🧠 Project Overview
 
 This project analyzes a sample sales dataset alongside financial/investor data to:
+
 Understand monthly revenue trends
+
 Explore sales by product lines
+
 Visualize customer demographics
+
 Uncover correlations between financial metrics
+
 Generate business insights from raw datasets
+
 It is entirely built in Python, uses pandas, seaborn, and matplotlib, and outputs high-quality plots and terminal insights for reporting or dashboard integration.
 
 🏗️ Project Structure
 
 Sales-Finance-Analysis/
+
 │
+
 ├── data/
+
 │   ├── sales_data_sample.csv       ← Raw sales transactions
+
 │   └── Finance_data.csv            ← Customer/finance dataset
+
 │
+
 ├── plots/
+
 │   └── *.png                       ← Automatically generated visualizations
+
 │
+
 ├── analysis.py                     ← Main Python script
+
 └── README.md                       ← Documentation
 
 🚀 How to Run
@@ -42,25 +58,41 @@ Print key business insights in the terminal
 Generate PNG plots inside the plots/ directory
 
 📈 Features & Visualizations
+
 ✅ Sales Analysis
+
 Monthly Revenue Trend
+
 Line chart showing monthly sales totals
+
 Saved as: plots/monthly_revenue.png
+
 Product Line Contribution
+
 Horizontal bar chart of sales by product category
+
 Saved as: plots/sales_by_productline.png
 
 ✅ Finance/Investor Analysis
+
 Age Distribution
+
 Histogram with KDE overlay for age demographics
+
 Saved as: plots/finance_age_histogram.png
+
 Correlation Heatmap
+
 Correlation matrix of numeric finance data
+
 Saved as: plots/finance_corr_heatmap.png
 
 ✅ Business Insights 
+
 Top 3 customers by sales
+
 Best revenue year
+
 Top-performing product line
 
 👨‍💻 Tech Stack
@@ -73,13 +105,21 @@ Top-performing product line
 | `os`         | Directory/file path management  |
 
 🧩 Use Cases
+
 Business Intelligence reporting
+
 Financial analyst portfolio project
+
 Python data visualization practice
+
 Interview showcase for analyst/data roles
 
 💡 Future Enhancements (Ideas)
+
 Export to Excel or PDF
+
 Interactive dashboard using streamlit or Plotly
+
 Forecasting models (e.g., revenue prediction)
+
 Segment analysis (regions, channels, etc.)
