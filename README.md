@@ -3,18 +3,13 @@
 A lightweight Python project that performs insightful analysis and visualization of sales and finance data—ideal for showcasing analytical skills in business intelligence, financial reporting, or data analytics.
 
 🧠 Project Overview
+
 This project analyzes a sample sales dataset alongside financial/investor data to:
-
 Understand monthly revenue trends
-
 Explore sales by product lines
-
 Visualize customer demographics
-
 Uncover correlations between financial metrics
-
 Generate business insights from raw datasets
-
 It is entirely built in Python, uses pandas, seaborn, and matplotlib, and outputs high-quality plots and terminal insights for reporting or dashboard integration.
 
 🏗️ Project Structure
