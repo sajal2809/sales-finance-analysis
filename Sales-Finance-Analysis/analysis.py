@@ -2,7 +2,7 @@
 analysis.py  ·  Pure‑Python analysis for the Sales & Finance project
 Run:  python analysis.py
 Creates: PNG charts in plots/  ·  Prints key insights to the terminal
-"""
+""" 
 
 import os
 import pandas as pd
