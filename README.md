@@ -1,4 +1,5 @@
 📊 Sales & Finance Analysis with Python
+
 A lightweight Python project that performs insightful analysis and visualization of sales and finance data—ideal for showcasing analytical skills in business intelligence, financial reporting, or data analytics.
 
 🧠 Project Overview
